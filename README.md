@@ -42,6 +42,7 @@ classification binaire, annulation hôtelière, validation temporelle, F1-score,
 - **notebook.ipynb** : EDA, prétraitement, modélisation, évaluation et soumission, exécutable de bout en bout ;
 - **submission.csv** : prédictions sur `reservations_test.csv` (2 000 lignes, 3 colonnes, ordre des identifiants préservé) ;
 - **README.md** : présent rapport ;
+- Lien vers la vidéo de présentation :https://drive.google.com/file/d/18-FyqE21SdHp53bqcKSEbkrlQDnQ2YNm/view?usp=drive_link
 
 ---
 
